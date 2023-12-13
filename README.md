@@ -1,4 +1,4 @@
 # trial-repo-demo
 This is my first git repo
 
-Author - Ajit Mali
+Author - ajit-b-mali
